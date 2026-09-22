@@ -20,7 +20,9 @@ cp -r workbuddy-skills/move-workbuddy-workspace ~/.workbuddy/skills/
 装好后重启 agent 会话，skill 才会被重新扫描发现。
 
 Skill 列表
+
 move-workbuddy-workspace
+
 安全地把 WorkBuddy 工作空间（项目文件夹）迁移到其他磁盘或目录。
 适用场景：想把工作空间从 C 盘挪到 D 盘，或改工作目录位置。
 它解决的三个坑
