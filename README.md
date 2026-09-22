@@ -1,8 +1,8 @@
-# CIDWorkBuddy Skills
+# SCID Skills
 
-我是Sokocid，这里会放一些我做的实用的Workbuddy小插件，以优化日常使用体验。如果碰到问题欢迎交流~
+我是Sokocid，这里会放一些我为了优化日常使用体验给 WorkBuddy / CodeBuddy 这类本地 agent 使用的 Skill 集合。如果碰到问题欢迎交流~
 
-给 WorkBuddy / CodeBuddy 这类本地 agent 使用的 Skill 集合。
+
 
 每个子目录是一个独立 skill；根目录的 `README.md` 只负责索引与安装说明。
 
