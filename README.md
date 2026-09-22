@@ -18,6 +18,7 @@ WorkBuddy Skills
 git clone https://github.com/Sokocid/workbuddy-skills.git
 cp -r workbuddy-skills/move-workbuddy-workspace ~/.workbuddy/skills/
 装好后重启 agent 会话，skill 才会被重新扫描发现。
+
 Skill 列表
 move-workbuddy-workspace
 安全地把 WorkBuddy 工作空间（项目文件夹）迁移到其他磁盘或目录。
