@@ -1,4 +1,4 @@
-# WorkBuddy Skills
+# CIDWorkBuddy Skills
 
 给 WorkBuddy / CodeBuddy 这类本地 agent 使用的 Skill 集合。
 
